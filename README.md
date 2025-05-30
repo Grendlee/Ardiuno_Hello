@@ -16,8 +16,9 @@ This project uses an Arduino Uno, a 16x2 LCD display, and a single push button t
 ---
 ## Wiring Diagram
 
-![picture](https://github.com/user-attachments/assets/4d2bec95-6879-4221-a143-bcc06766b31a)
+<img src="https://github.com/user-attachments/assets/4d2bec95-6879-4221-a143-bcc06766b31a" width="400"/>
 
+<img src="https://github.com/user-attachments/assets/7395c050-500b-4bca-9340-3b7143dc2d53" width="400"/>
 
 
 > The code uses `INPUT_PULLUP`, so no external resistor is needed.
