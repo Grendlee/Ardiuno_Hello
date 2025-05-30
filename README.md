@@ -23,6 +23,8 @@ This project uses an Arduino Uno, a 16x2 LCD display, and a single push button t
 
 
 > The code uses `INPUT_PULLUP`, so no external resistor is needed.
+> I followed [Lesson 14 of the ELEGOO UNO Project Guide](https://www.elegoo.com/blogs/arduino-projects/elegoo-uno-project-super-starter-kit-tutorial?srsltid=AfmBOopGCiOi5mwlfzS42JY0FJHKfVvcF-TU_g2O6mA4O-12nJ2bwIF7).
+
 
 
 ## 🧑‍💻 Code Behavior Summary
